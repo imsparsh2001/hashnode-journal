@@ -1,8 +1,8 @@
 ---
-title: "Internal working of Python"
+title: "Inner working of Python"
 datePublished: Wed Jul 30 2025 10:11:17 GMT+0000 (Coordinated Universal Time)
 cuid: cmdpt2v1b000r02l2aeyj4s36
-slug: internal-working-of-python
+slug: inner-working-of-python
 tags: python, python3, devops, python-beginner, python-projects
 
 ---
