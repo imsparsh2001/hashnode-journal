@@ -1,8 +1,8 @@
 ---
-title: "Working with Modules in Python and Reloading Changes"
+title: "How to Work with Python Modules and Update Them with Reload"
 datePublished: Wed Jul 30 2025 18:30:43 GMT+0000 (Coordinated Universal Time)
 cuid: cmdqax5fl000302l3ch3jerqz
-slug: working-with-modules-in-python-and-reloading-changes
+slug: how-to-work-with-python-modules-and-update-them-with-reload
 tags: python, python3, python-beginner, python-projects, python-modules-and-packages
 
 ---
